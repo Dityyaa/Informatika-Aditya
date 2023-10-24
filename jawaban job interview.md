@@ -14,7 +14,10 @@ bla bla bla
 
 sebagai| saya ingin bisa | sehingga | prioritas
 ---|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+pengguna | melihat semua product | banyak pilihan produck | ⭐⭐⭐⭐
+pengguna | memasukan ke dalam keranjang | dapat melist product sebelum check out | ⭐⭐⭐⭐
+pengguna | melihat detail product | melihat deskrips lengkap product | ⭐⭐⭐⭐
+pengguna | memilih media pembayaran | bisa menyesuaikan payment yang di punya | ⭐⭐⭐⭐
 
 ## 3. Struktur Data
 

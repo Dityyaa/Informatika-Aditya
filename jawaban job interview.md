@@ -12,7 +12,7 @@ bla bla bla
 
 ## 2. User Story
 
-bla | bla | bla | bla
+sebagai| saya ingin bisa | sehingga | prioritas
 ---|---|---|---
 bla | bla | bla | ⭐⭐⭐⭐⭐
 

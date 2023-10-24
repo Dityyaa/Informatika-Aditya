@@ -17,7 +17,7 @@ sebagai| saya ingin bisa | sehingga | prioritas
 pengguna | melihat semua product | banyak pilihan produck | ⭐⭐⭐⭐
 pengguna | memasukan ke dalam keranjang | dapat melist product sebelum check out | ⭐⭐⭐⭐
 pengguna | melihat detail product | melihat deskrips lengkap product | ⭐⭐⭐⭐
-pengguna | chat dengan admin | agar memperjelas deskripsi atau pertanyaan customer| ⭐⭐⭐⭐⭐
+pengguna | chat dengan admin | agar memperjelas deskripsi atau pertanyaan yang diajukan customer| ⭐⭐⭐⭐⭐
 pengguna | memilih media pembayaran | bisa menyesuaikan payment yang di punya | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data

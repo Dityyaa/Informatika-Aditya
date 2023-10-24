@@ -13,6 +13,26 @@ Merk : Ditzz
 Tagline :"Improve Your Style"
 
 Campaign : Membuat website sederhana yang bisa di akses kapanpun tanpa harus berpergian
+
+Target user :
+ - usia 13+
+ - pengoleksi sepatu jordan
+ - pecinta sepatu
+ - penggemar olahraga basket
+ - pemeberi hadiah
+ - starboy
+ - pengemar atlet yang memkai seaptu jordan
+ - atlit
+ - pembeli yang ingin meningkatkan gaya
+ - pembeli gabut yang memeliki banyak uang
+
+   User Experience Theme :
+   -mudah
+   -jelas
+   -sederhana
+   -cepat
+   -nyaman
+   -warna : yang identik dengan Bandung yaitu Biru(Persib)
 ## 2. User Story
 
 sebagai| saya ingin bisa | sehingga | prioritas

@@ -60,10 +60,10 @@ Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/synta
 ## 5. Teknologi, Library, dan Framework
 
 
--
--
--
--
+-UI/UX Design : Figma
+-Browser : Chrome
+-Text Editor : VS Code
+-Framework :
 -
 -
 -

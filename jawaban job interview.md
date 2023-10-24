@@ -37,7 +37,7 @@ Target user :
 
 sebagai| saya ingin bisa | sehingga | prioritas
 ---|---|---|---
-pengguna | melihat semua product | banyak pilihan produck | ⭐⭐⭐⭐
+pengguna | melihat semua product | banyak pilihan produck | ⭐⭐⭐
 pengguna | memasukan ke dalam keranjang | dapat melist product sebelum check out | ⭐⭐⭐⭐
 pengguna | melihat detail product | melihat deskrips lengkap product | ⭐⭐⭐⭐
 pengguna | chat dengan admin | agar memperjelas deskripsi atau pertanyaan yang diajukan customer| ⭐⭐⭐⭐⭐

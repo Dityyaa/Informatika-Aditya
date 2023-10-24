@@ -8,8 +8,11 @@ Aplikasi ini digunakan untuk membeli sepatu yang di khusus kan untuk sepatu nike
 
 ## 1.3. Branding
 
-bla bla bla
+Merk : Ditzz
 
+Tagline :"Improve Your Style"
+
+Campaign : Membuat website sederhana yang bisa di akses kapanpun tanpa harus berpergian
 ## 2. User Story
 
 sebagai| saya ingin bisa | sehingga | prioritas

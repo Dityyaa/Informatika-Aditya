@@ -4,7 +4,7 @@ bla bla bla
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-bla bla bla
+Aplikasi ini digunakan untuk membeli sepatu yang di khusus kan untuk sepatu nike air jordan
 
 ## 1.3. Branding
 

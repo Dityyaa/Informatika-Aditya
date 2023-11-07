@@ -1,6 +1,6 @@
 ## 1.1 Latar Belakang
 
-bla bla bla
+Saya membuat website ini berawal dari keingin saya yang ingin memiliki sepatu air jordan 
 
 ## 1.2. Deksripsi Teknologi Informasi
 

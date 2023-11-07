@@ -27,12 +27,12 @@ Target user :
  - pembeli gabut yang memeliki banyak uang
 
  User Experience Theme :
-  -mudah
-  -jelas
-  -sederhana
-  -cepat
-  -nyaman
-  -warna : yang identik dengan Bandung yaitu Biru(Persib)
+  - mudah
+  - jelas
+  - sederhana
+  - cepat
+  - nyaman
+  - warna : yang identik dengan Bandung yaitu Biru(Persib)
 ## 2. User Story
 
 sebagai| saya ingin bisa | sehingga | prioritas

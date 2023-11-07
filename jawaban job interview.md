@@ -69,8 +69,7 @@ Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/synta
 
 ## 6. Desain User Experience dan User Interface
 
-Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+https://www.figma.com/file/puzrGQpXos2zo31iMnbKAZ/UTS-Aditya?type=design&node-id=0%3A1&mode=design&t=RH4vGgBTmkw9NZa3-1
 
 ## 7. Demonstrasi Video
 

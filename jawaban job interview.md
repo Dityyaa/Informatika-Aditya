@@ -65,7 +65,9 @@ flowchart TD
 
 ## 6. Desain User Experience dan User Interface
 
-https://www.figma.com/file/puzrGQpXos2zo31iMnbKAZ/UTS-Aditya?type=design&node-id=0%3A1&mode=design&t=RH4vGgBTmkw9NZa3-1
+Landing Page 
+
+![img](https://github.com/Dityyaa/UTS-Aditya/blob/main/Desktop%20-%201.png?raw=true)
 
 ## 7. Demonstrasi Video
 

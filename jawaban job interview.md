@@ -44,7 +44,7 @@ pengguna | chat dengan admin | agar memperjelas deskripsi atau pertanyaan yang d
 pengguna | memilih media pembayaran | bisa menyesuaikan payment yang di punya | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
-
+![img](https://github.com/Dityyaa/UTS-Aditya/blob/main/StrukturData.jpeg?raw=true)
 
 ## 4. Arsitektur Sistem
 

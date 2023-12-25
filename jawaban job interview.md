@@ -70,6 +70,7 @@ Landing Page
 ![img](https://github.com/Dityyaa/UTS-Aditya/blob/main/Desktop%20-%201.png?raw=true)
 ![img](https://github.com/Dityyaa/UTS-Aditya/blob/main/folder/Desktop%20-%202.png?raw=true)
 ![img](https://github.com/Dityyaa/UTS-Aditya/blob/main/folder/Desktop%20-%203.png?raw=true)
+![img](https://github.com/Dityyaa/UTS-Aditya/blob/main/folder/Desktop%20-%204.png?raw=true)
 ## 7. Demonstrasi Video
 
 Link youtube nya

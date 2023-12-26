@@ -27,7 +27,8 @@ link :https://drive.google.com/file/d/1hpZTH4QIg7x7-ykyyRqpy9-xxvDyyBfz/view?usp
 
 
 ## 8.Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-link :
+![Uploading image.png…]()
+
 Referensi [1](https://scratch.mit.edu/)
 
 ## 9.Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐

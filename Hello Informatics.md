@@ -229,7 +229,9 @@ Lowongan kerja bisa menggunakan situs yang bernama JobStreet
 
 
 ## 48.Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
-link :
+Saya menggunakan situs freelancer.com
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/43d5a83a-a6db-4658-a08a-2902c3e0628b)
+
 
 ## 49.Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 link :

@@ -71,7 +71,7 @@ link :
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
-## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+## 18.Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 link :
 
 Referensi tutorial 
@@ -79,112 +79,114 @@ Referensi tutorial
 - Styling halaman web : [CSS](https://www.w3schools.com/css/)
 - Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
-## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+## 19.Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 link :
 
-## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+## 20.Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 link :
 
-## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+## 21.Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 link :
 
-## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+## 22.Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 link :
 
-## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+## 23.Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 link :
 
-## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+## 24.Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 link :
 
-## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+## 25.Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 link :
 
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
-## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+## 26.Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+link :https://wordpress.com/view/dityanp.wordpress.com
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/313462d7-c9a9-4a95-95ac-9b902200f55d)
+
+
+## 27.Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 link :
 
-## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+## 28.Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 link :
 
-## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+## 29.Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 link :
 
-## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+## 30.Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 link :
 
-## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+## 31.Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 link :
 
-## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+## 32.Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 link :
 
-## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+## 33.Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 link :
 
-## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+## 34.Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 link :
 
-## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+## 35.Mencoba Data Visualization Dengan Code [v] ⭐⭐
 link :
 
-## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+## 36.Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 link :
 
-## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+## 37.Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 link :
 
-## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+## 38.Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 link :
 
-## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+## 39.Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 link :
 
-## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+## 40.Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 link :
 
-## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+## 41.Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 link :
 
-## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+## 42.Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 link :
 
-## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+## 43.Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 link :
 
-## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+## 44.Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 link :
 
-## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+## 45.Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 link :
 
-## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+## 46.Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 link :
 
-## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+## 47.Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 link :
 
-## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+## 48.Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 link :
 
-## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+## 49.Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 link :
 
-## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+## 50.Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 link :
 
-## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+## 51.Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 link :
 
-## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+## 52.Membangun Profil Github Page ⭐⭐⭐⭐⭐
 link :
 
-## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+## 53.Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 link :
 
-## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
-link :
-
-## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+## 54.Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 link :

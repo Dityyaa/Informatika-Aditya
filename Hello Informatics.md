@@ -144,7 +144,13 @@ link :
 link :
 
 ## 36.Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
-link :
+Daftar Akun
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/73375686-59b0-482e-83c4-d1cd1872e37c)
+
+membuat repository
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/51855c20-0257-40d1-9b4f-ad431eef3e90)
+
+
 
 ## 37.Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 link :

@@ -47,7 +47,10 @@ link :
 link :
 
 ## 13.Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-link :
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/59bc5ea0-24df-489b-ba80-c8cd51132380)
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/1470fd9e-ad95-4a0b-9b47-127dc3eebc8c)
+
+
 
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)

@@ -160,7 +160,12 @@ Kesimpulan:
 
 
 ## 37.Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
-link :
+Daftar akun 
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/9f64a3d7-0047-40db-9abd-60a3dcab8356)
+
+Kesimpulan:
+Kagle adalah situs documentasi untuk bahasa pemrograman data science dan dapat menyimpan portofolio di dalamnya.
+
 
 ## 38.Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 link :

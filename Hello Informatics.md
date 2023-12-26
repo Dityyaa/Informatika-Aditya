@@ -8,7 +8,8 @@ link :https://wordpress.com/post/dityanp.wordpress.com/7
 link :https://wordpress.com/post/dityanp.wordpress.com/5
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-link :
+link :![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/e5d9a93c-1c23-4d27-b862-bd242d4da1ca)
+
 
 ## Mencoba Console Sistem Operasi
 link :

@@ -223,7 +223,10 @@ Screenshoot: <br> ![image](https://github.com/Dityyaa/UTS-Aditya/assets/14469008
 link :
 
 ## 47.Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
-link :
+Lowongan kerja bisa menggunakan situs yang bernama JobStreet
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/84b6ce60-d69f-4539-b963-b1d4a6bd9b31)
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/1ee20cfe-d319-4838-b6f1-24ecf7bf1251)
+
 
 ## 48.Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 link :

@@ -91,7 +91,11 @@ Referensi tutorial
 link :
 
 ## 20.Mencoba Pembuatan File JSON [v] ⭐⭐⭐
-link :
+Eksekusi code
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/b1e6f8de-c3d9-48f5-a950-b7c8c2c1842c)
+Results:
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/bf81295a-c98a-464a-b65b-b7d6b4bb4c47)
+
 
 ## 21.Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 link :

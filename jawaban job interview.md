@@ -47,6 +47,7 @@ pengguna | memasukan ke dalam keranjang | dapat melist product sebelum check out
 pengguna | melihat detail product | melihat deskrips lengkap product | ⭐⭐⭐⭐
 pengguna | chat dengan admin | agar memperjelas deskripsi atau pertanyaan yang diajukan customer| ⭐⭐⭐⭐⭐
 pengguna | memilih media pembayaran | bisa menyesuaikan payment yang di punya | ⭐⭐⭐⭐⭐
+Pengguna | Membuat dan melihat ulasan product| Dapat membuat keputusan yang didasarkan pada pengalaman pelanggan lain | ⭐⭐⭐
 
 ## 3. Struktur Data
 ![img](https://github.com/Dityyaa/UTS-Aditya/blob/main/StrukturData.jpeg?raw=true)

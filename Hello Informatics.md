@@ -27,7 +27,7 @@ link :https://drive.google.com/file/d/1hpZTH4QIg7x7-ykyyRqpy9-xxvDyyBfz/view?usp
 
 
 ## 8.Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-![Uploading image.png…]()
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/062ac638-4d46-4c3a-b089-31e5c0d40b48)
 
 Referensi [1](https://scratch.mit.edu/)
 
@@ -89,7 +89,19 @@ Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.ht
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 ## 18.Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-link :
+- HTML:
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/11b490e4-1bf4-488f-9461-62d079a220f6)
+
+- CSS: 
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/f36333fa-1fd5-4808-a7ef-29ade79a1815)
+
+- Javascript:
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/5835af1f-46a1-437a-9266-cd5d8100af18)
+
+Results:
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/277a1505-2a17-4d63-985d-82baff3837ea)
+
+
 
 Referensi tutorial 
 - Isi konten halaman web : [HTML](https://www.w3schools.com/html/)

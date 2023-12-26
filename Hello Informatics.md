@@ -12,7 +12,12 @@ link :![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/e5d9a93c-1
 
 
 ## 4.Mencoba Console Sistem Operasi
-link :
+Saya menggunakan console sistem operasi git bash
+- **cd** digunakan untuk perpindahan antar file
+- **ls** digunakan untuk melihat list dari isi folder tersebut
+- **mkdir** digunakan untuk membuat sebuah folder dalam folder tersebut 
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/a23fbd6f-d6be-417a-965f-be02182fb4b3)
+
 
 ### 5.Windows CMD [v] ⭐⭐⭐⭐
 link :https://wordpress.com/post/dityanp.wordpress.com/30

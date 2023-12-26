@@ -40,6 +40,8 @@ sebagai| saya ingin bisa | sehingga | prioritas
 Admin | Hapus Product | Bisa menghapus product | ⭐⭐⭐⭐⭐
 Admin | Mengelola data transaksi  | Bisa melihat detail transaksi dan mengubah status transaksi | ⭐⭐⭐⭐⭐
 Admin | Mengelola data user | Bisa update data user dan menghapus data user | ⭐⭐⭐⭐⭐
+Admin | Upload Product | Banyak product yang bisa dipilih user  | ⭐⭐⭐⭐⭐
+Admin | Edit Product | Bisa merubah harga, deskripsi, nama product | ⭐⭐⭐⭐⭐
 pengguna | melihat semua product | banyak pilihan produck | ⭐⭐⭐
 pengguna | memasukan ke dalam keranjang | dapat melist product sebelum check out | ⭐⭐⭐⭐
 pengguna | melihat detail product | melihat deskrips lengkap product | ⭐⭐⭐⭐

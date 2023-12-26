@@ -112,7 +112,7 @@ link :
 link :
 
 ## 23.Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
-Saya mencoba http request menggunakan applikasi menggunakan postman dengan fakeapi dari jsonplaceholder **https://jsonplaceholder.typicode.com/users**
+Saya mencoba http request menggunakan applikasi postman dengan fakeapi dari jsonplaceholder **https://jsonplaceholder.typicode.com/users**
 ![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/2d5dad2d-4741-49a1-9717-3400208461ff)
 
 

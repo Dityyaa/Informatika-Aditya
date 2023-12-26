@@ -239,7 +239,10 @@ Saya memilih roadmap dari topik Front End
 
 
 ## 50.Eksplorasi Top Github Project yang Diminati ⭐⭐ 
-link :
+saya memilih project yang bernama Todolist, karna termasuk project yang diminati oleh pemula
+- link: https://github.com/zafar-saleem/todo
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/c69ed798-43a4-48f3-a1b0-cb3ce122a9cf)
+
 
 ## 51.Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 link :

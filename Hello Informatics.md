@@ -186,7 +186,27 @@ link :
 link :
 
 ## 44.Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
-link :
+- Front end
+Salah satu bidang dalam dunia informatika yang fokus pada pengembangan antarmuka pengguna (user interface) dan pengalaman pengguna (user experience) dari suatu aplikasi atau situs web. 
+
+- Back end
+Bertanggung jawab atas pengembangan server, database, dan logika aplikasi pada sisi server (server side).
+
+- Fullstack
+Memiliki keterampilan baik di front-end maupun back-end, mampu mengembangkan seluruh aspek dari suatu aplikasi.
+
+- Data scientist
+Menganalisis data besar untuk menemukan pola, tren, dan membuat prediksi yang bermanfaat.
+
+- Design UI/UX 
+Merancang antarmuka pengguna (UI) dan memastikan pengalaman pengguna (UX) yang baik.
+
+- Data analyst
+ Menganalisis dan menginterpretasi data untuk memberikan wawasan yang berharga bagi pengambilan keputusan.
+
+- QA and QC Testing
+Memastikan bahwa perangkat lunak atau aplikasi berfungsi dengan baik dan sesuai dengan standar kualitas yang ditetapkan.
+
 
 ## 45.Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 link :

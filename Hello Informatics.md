@@ -234,7 +234,9 @@ Saya menggunakan situs freelancer.com
 
 
 ## 49.Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
-link :
+Saya memilih roadmap dari topik Front End
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/3d92b3bb-1840-4e38-9321-3afbfe96ed8d)
+
 
 ## 50.Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 link :

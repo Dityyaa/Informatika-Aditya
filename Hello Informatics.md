@@ -215,6 +215,8 @@ Duolingo memiliki beberapa tools yang dapat membantu pembelajaran dalam berbahas
 - Sound Bahasa: <br> yang dimana dapat mengeluarkan suara berbahasa inggris yang jelas 
 
 Screenshoot: <br> ![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/3173d1ba-6b32-4c01-8f1c-5ed4076ce24a)
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/ef931385-d242-42d4-aee4-0e2b302f66ee)
+
 
 
 ## 46.Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 

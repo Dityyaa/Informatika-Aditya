@@ -24,6 +24,8 @@ link :https://wordpress.com/post/dityanp.wordpress.com/30
 
 ### 6.Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 link : BUAT VIDIOOO
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/7d620ade-546e-44c3-9300-20477af5dae2)
+
 
 ## 7.Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 link :https://drive.google.com/file/d/1hpZTH4QIg7x7-ykyyRqpy9-xxvDyyBfz/view?usp=drive_link

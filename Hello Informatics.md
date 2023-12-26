@@ -70,14 +70,14 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## 16.Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 Dalam Uniform Resource Locator atau bisa disingkat dengan URL ada beberapa komponen yaitu
-- Protokol: seperti contoh http:// atau bisa menggunakan https:// <br> <b>http<b/> merupakan protokol yang standar sedangkan <b>https<b/> merupakan protokol yang aman (secure)
+- Protokol: Protokol menentukan cara bagaimana sumber daya akan diakses. seperti contoh http:// atau bisa menggunakan https:// <br> <b>http<b> merupakan protokol standar sedangkan <b>https<b> merupakan protokol yang aman (secure) 
 - Host: host menunjukkan lokasi server atau komputer yang menyediakan sumber daya seperti contoh www.movie.com
 - Port: port merupakan bilangan yang menentukan saluran komunikasi. default nya adalah 80 namun jika https bercode 443
-- Path: Path mengidentifikasi lokasi spesifik dari sumber daya di server seperti contoh <b>home/to/listMovie<b/>
-- Query String: digunakan untuk menyampaikan parameter atau informasi tambahan kepada server seperti contoh <b>?id=1&category=horror<b/>
-- Achor/Fragment: Fragment menunjukkan bagian tertentu dari sumber daya yang harus ditampilkan seperti contoh <b>#section1<b/>
+- Path: Path mengidentifikasi lokasi spesifik dari sumber daya di server seperti contoh <b>home/to/listMovie<b>
+- Query String: digunakan untuk menyampaikan parameter atau informasi tambahan kepada server seperti contoh <b>?id=1&category=horror<b>
+- Achor/Fragment: Fragment menunjukkan bagian tertentu dari sumber daya yang harus ditampilkan seperti contoh <b>#section1<b>
 
-jika digabungkan akan menjadi seprti ini <b>https://movie.com/home/to/detail-movie?id=1&category=horror<b/>
+jika digabungkan akan menjadi seprti ini <b>https://movie.com/home/to/detail-movie?id=1&category=horror<b>
 
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 

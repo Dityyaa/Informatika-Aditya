@@ -147,9 +147,12 @@ link :
 Daftar Akun
 ![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/73375686-59b0-482e-83c4-d1cd1872e37c)
 
-membuat repository
+membuat model repository
 ![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/51855c20-0257-40d1-9b4f-ad431eef3e90)
 
+Kesimpulan:
+-HuggingFace bisa digunakan untuk menyimpan model repository hampir sama seperti github yaitu menyimpan code yang berhubungan dengan AI
+-HuggingFace bisa digunakan untuk mendeploy project yang berhubungan dengan AI
 
 
 ## 37.Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐

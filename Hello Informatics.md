@@ -31,7 +31,11 @@ link :
 Referensi [1](https://scratch.mit.edu/)
 
 ## 9.Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
-link :
+Bubble Sort adalah algoritma pengurutan sederhana yang mengoperasikan dengan cara membandingkan dan menukar elemen-elemen bersebelahan dalam suatu array. Langkah pertama dalam algoritma ini adalah membandingkan dua elemen adjacent, dan jika elemen sebelumnya lebih besar dari elemen sesudahnya, keduanya akan ditukar. Proses ini berulang-ulang untuk setiap pasangan elemen dalam array. Algoritma melakukan iterasi melalui array, terus membandingkan dan menukar elemen-elemen hingga tidak ada lagi penukaran yang diperlukan, menandakan bahwa array sudah terurut.
+
+Misalkan kita memiliki array awal seperti `{55 28 97 14 52 69}`. Pada setiap iterasi, Bubble Sort akan membandingkan dan menukar elemen yang tidak terurut. Misalnya, pada iterasi pertama, angka 5 dan 2 akan ditukar, dan proses ini berlanjut hingga iterasi terakhir ketika tidak ada lagi perubahan yang diperlukan. Hasilnya adalah array yang terurut dari nilai terkecil ke terbesar, dalam kasus ini menjadi `{14 28 52 55 69 97 }`. Meskipun Bubble Sort adalah algoritma yang sederhana, ia kurang efisien untuk data set yang besar dibandingkan dengan algoritma pengurutan yang lebih canggih.
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/f371c3bc-405b-4e39-b573-4d09bf688e2f)
+
 
 ## 10.Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 link :

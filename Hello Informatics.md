@@ -190,7 +190,7 @@ link :
 link :
 
 ## 52.Membangun Profil Github Page ⭐⭐⭐⭐⭐
-link :
+link : BIKIN VIDIO
 
 ## 53.Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 link :

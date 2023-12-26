@@ -74,7 +74,8 @@ link :
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## 17.Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-link :
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/00087da6-6c0e-4da7-b100-befdddb4d05a)
+
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 

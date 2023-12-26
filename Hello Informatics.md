@@ -214,6 +214,9 @@ Duolingo memiliki beberapa tools yang dapat membantu pembelajaran dalam berbahas
 - Menulis: <br> menulis dalam duolingo dapat menggunakan beberapa cara yaitu dengan cara di tulis dan dengan cara mengklik kata kata yang sudah ada yang kemudian dapat disusun
 - Sound Bahasa: <br> yang dimana dapat mengeluarkan suara berbahasa inggris yang jelas 
 
+Screenshoot: <br> ![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/3173d1ba-6b32-4c01-8f1c-5ed4076ce24a)
+
+
 ## 46.Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 link :
 

@@ -33,6 +33,9 @@ Target user :
   - cepat
   - nyaman
   - warna : yang identik dengan Bandung yaitu Biru(Persib)
+  - Reverensi website
+   ![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/18159bf2-b89f-47f9-8926-eacbf648599e)
+
 ## 2. User Story
 
 sebagai| saya ingin bisa | sehingga | prioritas

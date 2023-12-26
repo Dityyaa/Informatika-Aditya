@@ -14,7 +14,7 @@ link :
 link :
 
 ### Windows CMD [v] ⭐⭐⭐⭐
-link :
+link :https://wordpress.com/post/dityanp.wordpress.com/30
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 link :

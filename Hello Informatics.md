@@ -209,7 +209,13 @@ Memastikan bahwa perangkat lunak atau aplikasi berfungsi dengan baik dan sesuai 
 
 
 ## 45.Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
-link :
+Duolingo memiliki beberapa tools yang dapat membantu pembelajaran dalam berbahasa inggris yaitu
+<br />
+- Membaca: menampilkan beberapa tampilan bahasa inggris yang dapat di baca dengan mudah dan nyaman
+<br />
+- Menulis: menulis dalam duolingo dapat menggunakan beberapa cara yaitu dengan cara di tulis dan dengan cara mengklik kata kata yang sudah ada yang kemudian dapat disusun
+<br />
+- Sound Bahasa: yang dimana dapat mengeluarkan suara berbahasa inggris yang jelas 
 
 ## 46.Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 link :

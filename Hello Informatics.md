@@ -193,7 +193,8 @@ link :
 link : BIKIN VIDIO
 
 ## 53.Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
-link :
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/f5a5a834-78e8-4190-973b-3a0da725c53f)
+
 
 ## 54.Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 link :

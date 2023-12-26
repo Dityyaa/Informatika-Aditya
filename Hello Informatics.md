@@ -4,69 +4,69 @@ link :
 ## 1.Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 link :https://wordpress.com/post/dityanp.wordpress.com/7
 
-## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+## 2.Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 link :https://wordpress.com/post/dityanp.wordpress.com/5
 
-## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+## 3.Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 link :![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/e5d9a93c-1c23-4d27-b862-bd242d4da1ca)
 
 
-## Mencoba Console Sistem Operasi
+## 4.Mencoba Console Sistem Operasi
 link :
 
-### Windows CMD [v] ⭐⭐⭐⭐
+### 5.Windows CMD [v] ⭐⭐⭐⭐
 link :https://wordpress.com/post/dityanp.wordpress.com/30
 
-### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+### 6.Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 link :
 
-## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+## 7.Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 link :https://drive.google.com/file/d/1hpZTH4QIg7x7-ykyyRqpy9-xxvDyyBfz/view?usp=drive_link
 ![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/527da511-6f11-4959-bb1c-021670e762df)
 
 
 
-## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+## 8.Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 link :
 Referensi [1](https://scratch.mit.edu/)
 
-## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+## 9.Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 link :
 
-## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+## 10.Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 link :
 
-## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+## 11.Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 link :
 
-## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+## 12.Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 link :
 
-## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+## 13.Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 link :
 
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 
-## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+## 14.Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 link :
 
 
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
-## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
+## 15.Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
-## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+## 16.Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 link :
 
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
-## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+## 17.Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 link :
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)

@@ -20,8 +20,10 @@ link :https://wordpress.com/post/dityanp.wordpress.com/30
 link :
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-link :
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
+link :https://drive.google.com/file/d/1hpZTH4QIg7x7-ykyyRqpy9-xxvDyyBfz/view?usp=drive_link
+![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/527da511-6f11-4959-bb1c-021670e762df)
+
+
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 link :

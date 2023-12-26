@@ -5,7 +5,7 @@ link :
 link :https://wordpress.com/post/dityanp.wordpress.com/7
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-link :
+link :https://wordpress.com/post/dityanp.wordpress.com/5
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 link :

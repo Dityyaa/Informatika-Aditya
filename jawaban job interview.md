@@ -4,7 +4,7 @@ Saya membuat website ini berawal dari keingin saya yang ingin memiliki sepatu ai
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-Aplikasi ini digunakan untuk membeli sepatu yang di khusus kan untuk sepatu nike air jordan
+Ditzz shop menyediakan pengalaman belanja sneakers yang nyaman, praktis, dan berkualitas tinggi untuk konsumen. Dengan menawarkan beragam produk dan gaya, inovasi teknologi untuk pengalaman yang lebih baik, pelayanan pelanggan yang responsif, serta fokus pada keberlanjutan dan kualitas, website ini bertujuan untuk memenuhi dan melebihi ekspektasi konsumen, menjadi pemain terkemuka di pasar sneakers online, dan menjadikan lifestyle yang lebih mudah diakses bagi semua.
 
 ## 1.3. Branding
 

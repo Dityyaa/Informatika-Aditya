@@ -98,4 +98,7 @@ Link youtube nya di detik jawaban ini
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+Sebuah database adalah kumpulan data yang tersimpan dalam sistem yang terstruktur, dirancang untuk pengelolaan dan akses data yang efisien. Ini berfungsi sebagai penyimpanan terorganisir yang memungkinkan Anda untuk menyimpan, mengakses, dan mengelola informasi dengan cara yang terstruktur dan mudah diakses."
+
+Sebagai contoh saya akan menjelas kan rancangan database yang saya buat
+

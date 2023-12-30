@@ -277,7 +277,7 @@ saya memilih project yang bernama Todolist, karna termasuk project yang diminati
 
 
 ## 51.Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
-link :
+link :https://www.linkedin.com/in/aditya-np-3472902a7/
 
 ## 52.Membangun Profil Github Page ⭐⭐⭐⭐⭐
 link :https://github.com/Dityyaa

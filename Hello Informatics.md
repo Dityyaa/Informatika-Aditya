@@ -137,7 +137,7 @@ Saya mencoba http request menggunakan applikasi postman dengan fakeapi dari json
 
 
 ## 24.Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
-link :
+link :https://youtu.be/QEgYxwpqzts
 
 ## 25.Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 link :

@@ -140,9 +140,7 @@ Saya mencoba http request menggunakan applikasi postman dengan fakeapi dari json
 link :https://youtu.be/QEgYxwpqzts
 
 ## 25.Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-link :
-
-Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
+link :https://wordpress.com/post/dityanp.wordpress.com/46
 
 ## 26.Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 link :https://wordpress.com/view/dityanp.wordpress.com

@@ -148,10 +148,10 @@ link :https://wordpress.com/view/dityanp.wordpress.com
 
 
 ## 27.Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
-link :
+link :https://youtu.be/WB3cpSrpVe0
 
 ## 28.Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
-link :
+link :https://youtu.be/WB3cpSrpVe0
 
 ## 29.Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 link :

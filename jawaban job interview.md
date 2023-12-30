@@ -66,10 +66,9 @@ flowchart TD
 - UI/UX Design : Figma
 - Browser : Chrome
 - Text Editor : VS Code
-- Framework :
--
--
--
+- Framework    : Laravel
+- Database     : MySQL
+
 
 
 ## 6. Desain User Experience dan User Interface

@@ -280,7 +280,7 @@ saya memilih project yang bernama Todolist, karna termasuk project yang diminati
 link :
 
 ## 52.Membangun Profil Github Page ⭐⭐⭐⭐⭐
-link : BIKIN VIDIO
+link :https://github.com/Dityyaa
 
 ## 53.Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 ![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/f5a5a834-78e8-4190-973b-3a0da725c53f)

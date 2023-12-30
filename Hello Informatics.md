@@ -49,7 +49,7 @@ Misalkan kita memiliki array awal seperti `{55 28 97 14 52 69}`. Pada setiap ite
 link :
 
 ## 11.Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
-link :
+link :https://youtu.be/_5FolQIyTtE
 
 ## 12.Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 link :
@@ -126,11 +126,10 @@ Results:
 
 
 ## 21.Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-link :https://youtu.be/_5FolQIyTtE
+link :
 
 ## 22.Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
-link :https://youtu.be/_5FolQIyTtE
-
+link :
 ## 23.Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 Saya mencoba http request menggunakan applikasi postman dengan fakeapi dari jsonplaceholder **https://jsonplaceholder.typicode.com/users**
 ![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/2d5dad2d-4741-49a1-9717-3400208461ff)

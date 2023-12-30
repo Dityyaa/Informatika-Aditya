@@ -160,7 +160,7 @@ link :
 link :
 
 ## 31.Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
-link :
+link :https://youtu.be/Yw3FVRqePkI
 
 ## 32.Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 ![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/feb84328-3b41-4c45-88f9-eb99fdc38a3b)

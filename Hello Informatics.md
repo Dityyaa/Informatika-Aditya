@@ -126,10 +126,10 @@ Results:
 
 
 ## 21.Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-link :
+link :https://youtu.be/_5FolQIyTtE
 
 ## 22.Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
-link :
+link :https://youtu.be/_5FolQIyTtE
 
 ## 23.Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 Saya mencoba http request menggunakan applikasi postman dengan fakeapi dari jsonplaceholder **https://jsonplaceholder.typicode.com/users**

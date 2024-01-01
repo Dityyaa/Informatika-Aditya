@@ -199,7 +199,7 @@ Kagle adalah situs documentasi untuk bahasa pemrograman data science dan dapat m
 
 
 ## 38.Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
-link :
+link :https://youtu.be/SUSWGuSVJbo
 
 ## 39.Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 link :

@@ -169,18 +169,14 @@ link :https://youtu.be/Yw3FVRqePkI
 
 
 ## 33.Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
-jika kata postive
 ![image](https://github.com/Dityyaa/Informatika-Aditya/assets/144690083/122e4542-4815-40a7-b2f5-4fba1a387066)
-tetapi jika kataga negative
-![image](https://github.com/Dityyaa/Informatika-Aditya/assets/144690083/546a3f84-3c45-4a8b-8f99-a73466e453c0)
-
-
 
 ## 34.Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 link :
 
 ## 35.Mencoba Data Visualization Dengan Code [v] ⭐⭐
-![Uploading image.png…]()
+![image](https://github.com/Dityyaa/Informatika-Aditya/assets/144690083/e10bc20b-98da-4cce-9a39-55e573e9a976)
+
 
 
 ## 36.Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐

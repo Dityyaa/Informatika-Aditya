@@ -156,7 +156,10 @@ link :https://youtu.be/WB3cpSrpVe0
 link :
 
 ## 30.Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
-link :
+![image](https://github.com/Dityyaa/Informatika-Aditya/assets/144690083/d2a93f23-e901-4297-95dd-99577c16aa49)
+![image](https://github.com/Dityyaa/Informatika-Aditya/assets/144690083/1bfea823-7f54-4746-a495-d16f01c74799)
+
+
 
 ## 31.Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 link :https://youtu.be/Yw3FVRqePkI

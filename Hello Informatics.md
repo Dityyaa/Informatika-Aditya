@@ -1,5 +1,5 @@
 # Hello Informatics !
-link :
+
 
 ## 1.Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 link :https://wordpress.com/post/dityanp.wordpress.com/7

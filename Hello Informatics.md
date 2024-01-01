@@ -202,7 +202,8 @@ Kagle adalah situs documentasi untuk bahasa pemrograman data science dan dapat m
 link :https://youtu.be/SUSWGuSVJbo
 
 ## 39.Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
-link :
+link :![image](https://github.com/Dityyaa/Informatika-Aditya/assets/144690083/53bd77a9-f4f3-4385-916a-9cb63fa86754)
+
 
 ## 40.Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 link :

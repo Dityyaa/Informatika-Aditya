@@ -206,7 +206,10 @@ link :![image](https://github.com/Dityyaa/Informatika-Aditya/assets/144690083/53
 
 
 ## 40.Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
-link :
+![image](https://github.com/Dityyaa/Informatika-Aditya/assets/144690083/f6dc8c09-b4d3-4a0e-b43a-8a5e4c25f337)
+![image](https://github.com/Dityyaa/Informatika-Aditya/assets/144690083/c74591eb-8186-4ad7-a313-f48d8c7bf2e3)
+
+
 
 ## 41.Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 link :https://wordpress.com/post/dityanp.wordpress.com/50

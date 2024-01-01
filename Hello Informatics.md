@@ -172,7 +172,7 @@ link :https://youtu.be/Yw3FVRqePkI
 jika kata postive
 ![image](https://github.com/Dityyaa/Informatika-Aditya/assets/144690083/122e4542-4815-40a7-b2f5-4fba1a387066)
 tetapi jika kataga negative
-![Uploading image.png…]()
+![image](https://github.com/Dityyaa/Informatika-Aditya/assets/144690083/546a3f84-3c45-4a8b-8f99-a73466e453c0)
 
 
 
@@ -180,7 +180,8 @@ tetapi jika kataga negative
 link :
 
 ## 35.Mencoba Data Visualization Dengan Code [v] ⭐⭐
-link :
+![Uploading image.png…]()
+
 
 ## 36.Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 Daftar Akun

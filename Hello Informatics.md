@@ -34,9 +34,8 @@ link :https://drive.google.com/file/d/1hpZTH4QIg7x7-ykyyRqpy9-xxvDyyBfz/view?usp
 
 
 ## 8.Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/062ac638-4d46-4c3a-b089-31e5c0d40b48)
+![image](https://github.com/Dityyaa/Informatika-Aditya/assets/144690083/38dfe979-0166-4ac1-bd10-e74c98056847)
 
-Referensi [1](https://scratch.mit.edu/)
 
 ## 9.Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 Bubble Sort adalah algoritma pengurutan sederhana yang mengoperasikan dengan cara membandingkan dan menukar elemen-elemen bersebelahan dalam suatu array. Langkah pertama dalam algoritma ini adalah membandingkan dua elemen adjacent, dan jika elemen sebelumnya lebih besar dari elemen sesudahnya, keduanya akan ditukar. Proses ini berulang-ulang untuk setiap pasangan elemen dalam array. Algoritma melakukan iterasi melalui array, terus membandingkan dan menukar elemen-elemen hingga tidak ada lagi penukaran yang diperlukan, menandakan bahwa array sudah terurut.

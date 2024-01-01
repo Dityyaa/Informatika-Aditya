@@ -205,7 +205,7 @@ link :
 link :
 
 ## 40.Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
-link :
+link :https://wordpress.com/post/dityanp.wordpress.com/50
 
 ## 41.Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 link :

@@ -45,13 +45,13 @@ Misalkan kita memiliki array awal seperti `{55 28 97 14 52 69}`. Pada setiap ite
 
 
 ## 10.Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
-link :
+link :https://youtu.be/6W5oZt1Xv6s
 
 ## 11.Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 link :https://youtu.be/_5FolQIyTtE
 
 ## 12.Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
-link :
+link :https://youtu.be/6W5oZt1Xv6s
 
 ## 13.Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 ![image](https://github.com/Dityyaa/UTS-Aditya/assets/144690083/59bc5ea0-24df-489b-ba80-c8cd51132380)

@@ -153,7 +153,8 @@ link :https://youtu.be/WB3cpSrpVe0
 link :https://youtu.be/WB3cpSrpVe0
 
 ## 29.Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
-link :
+link :![image](https://github.com/Dityyaa/Informatika-Aditya/assets/144690083/031f1f3e-5145-494f-a6b2-7aa175b0cce7)
+
 
 ## 30.Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 ![image](https://github.com/Dityyaa/Informatika-Aditya/assets/144690083/d2a93f23-e901-4297-95dd-99577c16aa49)
